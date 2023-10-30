@@ -1,37 +1,37 @@
-AIM: To understand DevOps: Principles, Practices, and DevOps Engineer Role and Responsibilities.
+AIM: To understand DevOps: Principles, Practices, and DevOps Engineer Role and Responsibilities.  
 
-FULL THEORY
+FULL THEORY  
 
----
+---  
 
-AIM: To understand Version Control System, install git and create a GitHub account.
+AIM: To understand Version Control System, install git and create a GitHub account.  
 
------How to install git-----
+-----How to install git-----  
 
-Download the latest version of Git and choose the 64/32 bit version. After the file is downloaded, install it in the system.
-https://git-scm.com/downloads (official link)
+Download the latest version of Git and choose the 64/32 bit version. After the file is downloaded, install it in the system.  
+https://git-scm.com/downloads (official link)  
 
-If you already have Git installed, you can get the latest development version via Git itself:
-git clone https://github.com/git/git
+If you already have Git installed, you can get the latest development version via Git itself:  
+git clone https://github.com/git/git  
 
------What is Github and Github account-------
+-----What is Github and Github account-------  
 
-Understand the basic difference between GIT & GitHub
-Create a github account or login to your existing account (no stress taken)
+Understand the basic difference between GIT & GitHub  
+Create a github account or login to your existing account  
 
----
+---  
 
-AIM: To perform various GIT operations
+AIM: To perform various GIT operations  
 
-1. `git config`
+1. `git config`  
 
-   - Utility: To set your user name and email in the main configuration file.
-   - How to: To check your name and email type in `git config --global user.name` and `git config --global user.email`.
+   - Utility: To set your user name and email in the main configuration file.   
+   - How to: To check your name and email type in `git config --global user.name` and `git config --global user.email`.  
 
-2. `git init`
+2. `git init`  
 
-   - Utility: To initialize a Git repository for a new or existing project.
-   - How to: Run `git init` in the root of your project directory.
+   - Utility: To initialize a Git repository for a new or existing project.  
+   - How to: Run `git init` in the root of your project directory.  
 
 3. `git clone`
 
